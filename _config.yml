@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "개발 기록"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "yxxnah"
+description              : "yxxnah's development docs"
 url                      : "https://seoya.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
